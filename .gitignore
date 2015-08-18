@@ -3,6 +3,15 @@
 1_Introduction/M101J/pom.xml.releaseBackup
 1_Introduction/M101J/pom.xml.versionsBackup
 1_Introduction/M101J/pom.xml.next
+2_CRUD/M101J/target/
+2_CRUD/M101J/pom.xml.tag
+2_CRUD/M101J/pom.xml.releaseBackup
+2_CRUD/M101J/pom.xml.versionsBackup
+2_CRUD/M101J/pom.xml.next
+2_CRUD/.idea/
+1_Introduction/.idea/
+create_blog_authors/.idea/
+create_blog_authors/create_blog_authors/target/
 release.properties
 dependency-reduced-pom.xml
 buildNumber.properties

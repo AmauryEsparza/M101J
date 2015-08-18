@@ -1,13 +1,18 @@
 package com.mongodb;
 
-/**
- * Hello world!
- *
- */
-public class App 
+import com.mongodb.client.MongoCollection;
+import com.mongodb.client.MongoDatabase;
+import org.bson.Document;
+
+public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        MongoClientOptions options = MongoClientOptions.builder().connectionsPerHost(500).build();
+        MongoClient client = new MongoClient(new ServerAddress(), options);
+
+        MongoDatabase db = client.getDatabase("test");
+        MongoCollection<Document> collection = db.getCollection("test");
+
     }
 }
