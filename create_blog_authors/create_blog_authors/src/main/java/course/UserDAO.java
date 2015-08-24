@@ -33,8 +33,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-import static com.mongodb.client.model.Filters.eq;
-
 public class UserDAO {
     private final MongoCollection<Document> usersCollection;
     private Random random = new SecureRandom();
