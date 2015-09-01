@@ -2,22 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="caed122e-65a7-49a9-bc94-42008c92bcc0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../M101J.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../3_SchoolProject/src/main/java/MainClass.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../3_SchoolProject/.idea/libraries/Maven__org_mongodb_bson_3_0_0_rc0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../3_SchoolProject/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_0_0_rc0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../3_SchoolProject/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_0_0_rc0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../3_SchoolProject/School.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../3_SchoolProject/src/main/java/DA/StudentDAO.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../3_SchoolProject/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../3_SchoolProject/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../3_SchoolProject/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../3_SchoolProject/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../3_SchoolProject/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../3_SchoolProject/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../3_SchoolProject/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/course/UserDAO.java" afterPath="$PROJECT_DIR$/src/main/java/course/UserDAO.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../2_CRUD/M101J/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../2_CRUD/M101J/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../3_blog/blog/M101J.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../3_blog/3_blog/.idea/libraries/Maven__com_sparkjava_spark_core_1_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../3_blog/3_blog/.idea/libraries/Maven__commons_codec_commons_codec_1_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../3_blog/3_blog/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../3_blog/3_blog/.idea/libraries/Maven__org_eclipse_jetty_jetty_http_9_0_2_v20130417.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../3_blog/3_blog/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_0_2_v20130417.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../3_blog/3_blog/.idea/libraries/Maven__org_eclipse_jetty_jetty_security_9_0_2_v20130417.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../3_blog/3_blog/.idea/libraries/Maven__org_eclipse_jetty_jetty_server_9_0_2_v20130417.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../3_blog/3_blog/.idea/libraries/Maven__org_eclipse_jetty_jetty_servlet_9_0_2_v20130417.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../3_blog/3_blog/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_0_2_v20130417.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../3_blog/3_blog/.idea/libraries/Maven__org_eclipse_jetty_jetty_webapp_9_0_2_v20130417.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../3_blog/3_blog/.idea/libraries/Maven__org_eclipse_jetty_jetty_xml_9_0_2_v20130417.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../3_blog/3_blog/.idea/libraries/Maven__org_eclipse_jetty_orbit_javax_servlet_3_0_0_v201112011016.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../3_blog/3_blog/.idea/libraries/Maven__org_freemarker_freemarker_2_3_19.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../3_blog/3_blog/.idea/libraries/Maven__org_mongodb_bson_3_0_0_rc0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../3_blog/3_blog/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_0_0_rc0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../3_blog/3_blog/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_0_0_rc0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../3_blog/3_blog/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../3_blog/3_blog/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../3_blog/3_blog/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../3_blog/3_blog/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../3_blog/3_blog/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../3_blog/3_blog/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../3_blog/3_blog/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../3_SchoolProject/src/main/java/MainClass.java" afterPath="$PROJECT_DIR$/../../3_SchoolProject/src/main/java/MainClass.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../3_SchoolProject/src/main/java/DA/StudentDAO.java" afterPath="$PROJECT_DIR$/../../3_SchoolProject/src/main/java/DA/StudentDAO.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../3_SchoolProject/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../3_SchoolProject/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="M101J.iws" />
@@ -63,12 +74,10 @@
       <file leaf-file-name="UserDAO.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/course/UserDAO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2800659">
-              <caret line="87" column="8" selection-start-line="87" selection-start-column="8" selection-end-line="87" selection-end-column="52" />
+            <state vertical-scroll-proportion="0.3360791">
+              <caret line="103" column="52" selection-start-line="103" selection-start-column="52" selection-end-line="103" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1320#1321#0" expanded="true" />
-                <element signature="e#1389#1390#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -142,6 +151,8 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -206,8 +217,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -488,6 +497,74 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/course/BlogController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+          <caret line="137" column="38" selection-start-line="137" selection-start-column="38" selection-end-line="137" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/course/UserDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/course/SessionDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="21" selection-start-line="10" selection-start-column="4" selection-end-line="15" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/course/BlogController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="137" column="38" selection-start-line="137" selection-start-column="38" selection-end-line="137" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/course/UserDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/course/SessionDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="21" selection-start-line="10" selection-start-column="4" selection-end-line="15" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/course/BlogController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -499,8 +576,6 @@
           <caret line="102" column="0" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1320#1321#0" expanded="true" />
-            <element signature="e#1389#1390#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -535,8 +610,6 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1320#1321#0" expanded="true" />
-            <element signature="e#1389#1390#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -571,8 +644,6 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1320#1321#0" expanded="true" />
-            <element signature="e#1389#1390#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -607,8 +678,6 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1320#1321#0" expanded="true" />
-            <element signature="e#1389#1390#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -661,12 +730,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/course/UserDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2800659">
-          <caret line="87" column="8" selection-start-line="87" selection-start-column="8" selection-end-line="87" selection-end-column="52" />
+        <state vertical-scroll-proportion="0.3360791">
+          <caret line="103" column="52" selection-start-line="103" selection-start-column="52" selection-end-line="103" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1320#1321#0" expanded="true" />
-            <element signature="e#1389#1390#0" expanded="true" />
           </folding>
         </state>
       </provider>

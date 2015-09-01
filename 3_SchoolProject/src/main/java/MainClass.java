@@ -16,7 +16,7 @@ public class MainClass {
 
     public MainClass(){
         MongoClient client = new MongoClient("localhost", 27017);
-        DB database = client.getDB("school");
+        MongoDatabase database = client.getDatabase("school");
 
         studentDAO = new StudentDAO(database);
         studentDAO.removeLowestHomework();
